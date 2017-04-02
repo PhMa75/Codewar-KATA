@@ -1,2 +1,2 @@
 # Codewar-KATA
-Algorithms Exercices
+Algorithms Exercices!
