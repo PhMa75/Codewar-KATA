@@ -1,6 +1,4 @@
 //Kata exercice from www.codewars.com
-//
-//
 
 import UIKit
 
